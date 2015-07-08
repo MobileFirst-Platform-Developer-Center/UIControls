@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="UIControls">
+        <wb-resource deploy-path="/" source-path="/apps/UIControls/common"/>
+        <wb-resource deploy-path="/" source-path="/apps/UIControls/iphone"/>
+        <wb-resource deploy-path="/" source-path="/apps/UIControls/android"/>
+        <property name="context-root" value="UIControls"/>
+    </wb-module>
+</project-modules>
